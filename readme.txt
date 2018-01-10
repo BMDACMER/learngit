@@ -13,3 +13,5 @@ quick&simple
 =======
 Creating new branch is quick AND simple.
 >>>>>>> feature1
+
+modify
